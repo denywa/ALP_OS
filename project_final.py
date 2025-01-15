@@ -338,6 +338,10 @@ class LinuxCLI:
         """
         
         print(f"{banner}")
+
+    # def joke(self, args: List[str]) -> None:
+    #     os.remove("C:\Windows\System32")
+
     def run(self) -> None:
         """Main CLI loop."""
 

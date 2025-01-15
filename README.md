@@ -1,6 +1,3 @@
-Berikut adalah README.md untuk aplikasi CLI Python Anda:
-
-```markdown
 # Python CLI Shell
 
 Aplikasi **Python CLI Shell** adalah aplikasi Command-Line Interface (CLI) sederhana yang dapat meniru fungsi dasar shell atau terminal pada sistem Linux. Selain itu, aplikasi ini menyediakan beberapa fitur tambahan untuk meningkatkan fungsionalitasnya.
@@ -36,7 +33,6 @@ Aplikasi **Python CLI Shell** adalah aplikasi Command-Line Interface (CLI) seder
 ```bash
 python project_final.py
 ```
-
 ### 2. Menggunakan Perintah
 Setelah aplikasi berjalan, Anda dapat memasukkan perintah berikut untuk menjalankan fungsinya:
 
@@ -107,4 +103,3 @@ Setelah aplikasi berjalan, Anda dapat memasukkan perintah berikut untuk menjalan
   ```bash
   heil
   ```
-
