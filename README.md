@@ -32,7 +32,7 @@ Aplikasi **Python CLI Shell** adalah aplikasi Command-Line Interface (CLI) seder
 3. Jalankan aplikasi dengan menjalankan file Python:
 ```bash
 python project_final.py
-
+```
 ### 2. Menggunakan Perintah
 Setelah aplikasi berjalan, Anda dapat memasukkan perintah berikut untuk menjalankan fungsinya:
 
