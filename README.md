@@ -23,14 +23,14 @@ Aplikasi **Python CLI Shell** adalah aplikasi Command-Line Interface (CLI) seder
   - `recent`: Menampilkan file yang baru saja dimodifikasi di direktori saat ini.
   - `tree`: Menampilkan struktur direktori dalam format pohon.
   - `heil`: Menampilkan banner ASCII art yang spesial.
+  - `bagi_angpao`: Menampilkan banner ASCII art yang unik dan meriah.
 
 ## Cara Menggunakan
 
 ### 1. Menjalankan Aplikasi
 1. Clone repositori atau salin skrip project_final.py ke direktori lokal.
 2. Buka terminal atau command prompt dan navigasikan ke direktori yang berisi file project_final.py.
-3. Jalankan aplikasi dengan menjalankan file Python:
-```bash
+3. Jalankan aplikasi dengan menjalankan file Python:```bash
 python project_final.py
 ```
 ### 2. Menggunakan Perintah
@@ -102,4 +102,8 @@ Setelah aplikasi berjalan, Anda dapat memasukkan perintah berikut untuk menjalan
 - **Menampilkan banner ASCII art**:
   ```bash
   heil
+  ```
+- **Menampilkan QR ASCII**:
+  ```bash
+  bagi_angpao
   ```
